@@ -1,5 +1,5 @@
-generator
-=========
+modulus-generator [![NPM version](https://badge.fury.io/js/modulus-generator.svg)](http://badge.fury.io/js/modulus-generator) [![Build Status](https://travis-ci.org/onmodulus/modulus-generator.svg?branch=master)](https://travis-ci.org/onmodulus/modulus-generator)
+=================
 
 Download and extract project templates.
 
